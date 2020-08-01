@@ -1,0 +1,5002 @@
+[
+  {
+    "isbn": "107270289-4",
+    "author": "Franklin",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "548032450-0",
+    "author": "Reardon",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "128013155-1",
+    "author": "Hamer",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "931362501-6",
+    "author": "Wallett",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "814408229-X",
+    "author": "Dodwell",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "087107073-1",
+    "author": "Leggen",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "190122211-X",
+    "author": "Bachmann",
+    "name": "Hotels/Resorts"
+  },
+  {
+    "isbn": "591987936-X",
+    "author": "Sliman",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "075398842-9",
+    "author": "Attenbrough",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "867306863-0",
+    "author": "Iorizzi",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "930306521-2",
+    "author": "Jeandon",
+    "name": "RETAIL: Building Materials"
+  },
+  {
+    "isbn": "894427053-8",
+    "author": "Satterthwaite",
+    "name": "Medical/Nursing Services"
+  },
+  {
+    "isbn": "690974385-7",
+    "author": "Joscelyn",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "142511076-2",
+    "author": "Saunderson",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "893614315-8",
+    "author": "Denys",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "042916654-0",
+    "author": "Laming",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "972954721-1",
+    "author": "Onions",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "703025889-4",
+    "author": "Craker",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "238854336-3",
+    "author": "Zack",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "568281226-3",
+    "author": "Harris",
+    "name": "Automotive Aftermarket"
+  },
+  {
+    "isbn": "955645698-8",
+    "author": "Salazar",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "801578899-4",
+    "author": "Peedell",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "501982858-0",
+    "author": "Ackroyd",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "065817808-3",
+    "author": "Janicek",
+    "name": "n/a"
+  },
+  {
+    "isbn": "683567499-7",
+    "author": "Treneman",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "368633863-7",
+    "author": "Flag",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "880622461-1",
+    "author": "Scotchmor",
+    "name": "n/a"
+  },
+  {
+    "isbn": "497312629-2",
+    "author": "Shackleford",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "320509629-0",
+    "author": "Molineaux",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "381586365-1",
+    "author": "Durban",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "952382351-5",
+    "author": "Clorley",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "109002097-X",
+    "author": "Highnam",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "368185896-9",
+    "author": "Seary",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "840743265-2",
+    "author": "Dingate",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "684052439-6",
+    "author": "Munt",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "330762567-5",
+    "author": "Meneely",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "591316155-6",
+    "author": "Gresswood",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "357372362-4",
+    "author": "Featherstone",
+    "name": "Automotive Aftermarket"
+  },
+  {
+    "isbn": "413505123-5",
+    "author": "Zecchinii",
+    "name": "n/a"
+  },
+  {
+    "isbn": "821411521-3",
+    "author": "Pearcey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "956389632-7",
+    "author": "Byneth",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "415148352-7",
+    "author": "Matyja",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "129939452-3",
+    "author": "Woolner",
+    "name": "n/a"
+  },
+  {
+    "isbn": "398131748-3",
+    "author": "Penn",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "487814093-3",
+    "author": "Inglis",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "993809082-6",
+    "author": "Karlmann",
+    "name": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  {
+    "isbn": "324393091-X",
+    "author": "Orrice",
+    "name": "n/a"
+  },
+  {
+    "isbn": "598721976-0",
+    "author": "Pietz",
+    "name": "n/a"
+  },
+  {
+    "isbn": "782383022-1",
+    "author": "Pond",
+    "name": "n/a"
+  },
+  {
+    "isbn": "784557452-X",
+    "author": "Spacey",
+    "name": "Electronic Components"
+  },
+  {
+    "isbn": "366520151-9",
+    "author": "Rankin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "256857075-X",
+    "author": "Allflatt",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "476859854-4",
+    "author": "Jensen",
+    "name": "n/a"
+  },
+  {
+    "isbn": "779132743-0",
+    "author": "Lendon",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "408078474-0",
+    "author": "Hargraves",
+    "name": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  {
+    "isbn": "141065707-8",
+    "author": "Atheis",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "330905734-8",
+    "author": "Cholmondeley",
+    "name": "n/a"
+  },
+  {
+    "isbn": "327185018-6",
+    "author": "Minmagh",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "864353989-9",
+    "author": "Lipsett",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "583795987-4",
+    "author": "Shorthouse",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "630508335-5",
+    "author": "Spires",
+    "name": "Construction/Ag Equipment/Trucks"
+  },
+  {
+    "isbn": "970124465-6",
+    "author": "Glassopp",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "695538475-9",
+    "author": "Cotes",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "752852866-8",
+    "author": "Fright",
+    "name": "n/a"
+  },
+  {
+    "isbn": "056136293-9",
+    "author": "Bortoluzzi",
+    "name": "n/a"
+  },
+  {
+    "isbn": "069109938-3",
+    "author": "Obert",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "829314534-X",
+    "author": "Firle",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "873401134-X",
+    "author": "Barbisch",
+    "name": "Containers/Packaging"
+  },
+  {
+    "isbn": "241051775-7",
+    "author": "Welford",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "505319581-1",
+    "author": "Bolsteridge",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "998153936-8",
+    "author": "Duffer",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "036888912-2",
+    "author": "Kettleson",
+    "name": "n/a"
+  },
+  {
+    "isbn": "785397248-2",
+    "author": "Kasher",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "463259716-3",
+    "author": "Jeskin",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "675269898-8",
+    "author": "Lardier",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "521386784-7",
+    "author": "Cornil",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "479643694-4",
+    "author": "Kirkhouse",
+    "name": "n/a"
+  },
+  {
+    "isbn": "827266578-6",
+    "author": "Bartosiak",
+    "name": "n/a"
+  },
+  {
+    "isbn": "468709315-9",
+    "author": "Byforth",
+    "name": "Oil Refining/Marketing"
+  },
+  {
+    "isbn": "208558669-4",
+    "author": "Bumford",
+    "name": "Commercial Banks"
+  },
+  {
+    "isbn": "949022860-5",
+    "author": "Jaksic",
+    "name": "Broadcasting"
+  },
+  {
+    "isbn": "050796384-9",
+    "author": "Stubbins",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "770786925-7",
+    "author": "Chewter",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "009828538-6",
+    "author": "Allmark",
+    "name": "Motor Vehicles"
+  },
+  {
+    "isbn": "849446987-8",
+    "author": "Duer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "260958453-9",
+    "author": "Valentetti",
+    "name": "Multi-Sector Companies"
+  },
+  {
+    "isbn": "401407657-1",
+    "author": "Nickell",
+    "name": "n/a"
+  },
+  {
+    "isbn": "151569592-1",
+    "author": "Rosenblath",
+    "name": "n/a"
+  },
+  {
+    "isbn": "096647525-9",
+    "author": "McIllroy",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "423795898-1",
+    "author": "Gayter",
+    "name": "n/a"
+  },
+  {
+    "isbn": "281856347-X",
+    "author": "Goodread",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "112441397-9",
+    "author": "Mingardi",
+    "name": "Coal Mining"
+  },
+  {
+    "isbn": "895646534-7",
+    "author": "Devers",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "203998035-0",
+    "author": "Sneyd",
+    "name": "Building Products"
+  },
+  {
+    "isbn": "851833364-4",
+    "author": "Hawick",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "149112547-0",
+    "author": "Jandak",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "474235232-7",
+    "author": "Swanston",
+    "name": "n/a"
+  },
+  {
+    "isbn": "618801643-6",
+    "author": "Tschersich",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "782665447-5",
+    "author": "Doveston",
+    "name": "n/a"
+  },
+  {
+    "isbn": "969004038-3",
+    "author": "Dutteridge",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "529724255-X",
+    "author": "McCoveney",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "582579269-4",
+    "author": "Farncomb",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "837166151-7",
+    "author": "McGrail",
+    "name": "n/a"
+  },
+  {
+    "isbn": "016458475-7",
+    "author": "Jatczak",
+    "name": "Finance Companies"
+  },
+  {
+    "isbn": "089051635-9",
+    "author": "Vosse",
+    "name": "n/a"
+  },
+  {
+    "isbn": "084033050-2",
+    "author": "Durdle",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "250564576-0",
+    "author": "De Vaan",
+    "name": "n/a"
+  },
+  {
+    "isbn": "357246461-7",
+    "author": "Ornells",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "227957363-6",
+    "author": "Goundry",
+    "name": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  {
+    "isbn": "143324859-X",
+    "author": "Chitson",
+    "name": "Television Services"
+  },
+  {
+    "isbn": "684400971-2",
+    "author": "Hundell",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "276131851-X",
+    "author": "Cluet",
+    "name": "n/a"
+  },
+  {
+    "isbn": "297865304-3",
+    "author": "Duffitt",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "121328109-1",
+    "author": "Rubinsky",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "218557635-6",
+    "author": "Starrs",
+    "name": "n/a"
+  },
+  {
+    "isbn": "367138654-1",
+    "author": "Rosengren",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "573183899-2",
+    "author": "Brantl",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "806511870-4",
+    "author": "Alster",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "676766000-0",
+    "author": "Winters",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "654917608-5",
+    "author": "Farn",
+    "name": "n/a"
+  },
+  {
+    "isbn": "876431874-5",
+    "author": "Krol",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "999048139-3",
+    "author": "Clapton",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "920376655-3",
+    "author": "Writer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "016716692-1",
+    "author": "Elvins",
+    "name": "n/a"
+  },
+  {
+    "isbn": "805558942-9",
+    "author": "Obray",
+    "name": "n/a"
+  },
+  {
+    "isbn": "092400288-3",
+    "author": "Verden",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "769076738-9",
+    "author": "Tregona",
+    "name": "Publishing"
+  },
+  {
+    "isbn": "724628059-6",
+    "author": "Coultass",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "104534940-2",
+    "author": "Bosomworth",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "283586826-7",
+    "author": "Parlott",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "624602113-1",
+    "author": "McRoberts",
+    "name": "Food Chains"
+  },
+  {
+    "isbn": "207922803-X",
+    "author": "Dancer",
+    "name": "Containers/Packaging"
+  },
+  {
+    "isbn": "988605518-9",
+    "author": "Basile",
+    "name": "n/a"
+  },
+  {
+    "isbn": "770376686-0",
+    "author": "Castelin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "107222320-1",
+    "author": "Hendonson",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "497808332-X",
+    "author": "Frise",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "737228109-1",
+    "author": "Trosdall",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "850325195-7",
+    "author": "Swanton",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "291197740-8",
+    "author": "Brute",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "574366893-0",
+    "author": "Edmott",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "966310287-X",
+    "author": "Teggin",
+    "name": "Consumer: Greeting Cards"
+  },
+  {
+    "isbn": "970679374-7",
+    "author": "Belshaw",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "439951611-9",
+    "author": "Pengilley",
+    "name": "Office Equipment/Supplies/Services"
+  },
+  {
+    "isbn": "687934603-0",
+    "author": "Moroney",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "504809148-5",
+    "author": "Rays",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "220122323-8",
+    "author": "Zorro",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "914454385-9",
+    "author": "Fishly",
+    "name": "n/a"
+  },
+  {
+    "isbn": "739082123-X",
+    "author": "Loghan",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "373261147-7",
+    "author": "Niessen",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "103978176-4",
+    "author": "Faulkener",
+    "name": "n/a"
+  },
+  {
+    "isbn": "889917598-5",
+    "author": "Cranmor",
+    "name": "Shoe Manufacturing"
+  },
+  {
+    "isbn": "612620911-7",
+    "author": "Luxmoore",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "511479112-5",
+    "author": "Kynaston",
+    "name": "n/a"
+  },
+  {
+    "isbn": "372675136-X",
+    "author": "Barkly",
+    "name": "n/a"
+  },
+  {
+    "isbn": "790366715-7",
+    "author": "Vondruska",
+    "name": "Plastic Products"
+  },
+  {
+    "isbn": "897031814-3",
+    "author": "Leif",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "075706712-3",
+    "author": "Turrill",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "777907405-6",
+    "author": "Nisco",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "202443637-4",
+    "author": "Gosforth",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "957788012-6",
+    "author": "Gatchel",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "732416002-6",
+    "author": "Standbridge",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "260842419-8",
+    "author": "Delion",
+    "name": "n/a"
+  },
+  {
+    "isbn": "661897058-X",
+    "author": "Gowanson",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "246241604-8",
+    "author": "Lello",
+    "name": "Home Furnishings"
+  },
+  {
+    "isbn": "883262159-2",
+    "author": "Overel",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "696459622-4",
+    "author": "Lethbury",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "623906825-X",
+    "author": "Wimmer",
+    "name": "Building Products"
+  },
+  {
+    "isbn": "168294216-3",
+    "author": "Foakes",
+    "name": "Auto Parts:O.E.M."
+  },
+  {
+    "isbn": "997985985-7",
+    "author": "Farmer",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "610941618-5",
+    "author": "Blasetti",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "897696294-X",
+    "author": "Gatiss",
+    "name": "n/a"
+  },
+  {
+    "isbn": "852619650-2",
+    "author": "Quarles",
+    "name": "Food Chains"
+  },
+  {
+    "isbn": "156397767-2",
+    "author": "Dunbobbin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "906254656-0",
+    "author": "Langstaff",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "040093016-1",
+    "author": "Shearwood",
+    "name": "n/a"
+  },
+  {
+    "isbn": "610543312-3",
+    "author": "Sprott",
+    "name": "Professional Services"
+  },
+  {
+    "isbn": "032762208-3",
+    "author": "Stillert",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "256831221-1",
+    "author": "Bispham",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "723704138-X",
+    "author": "Yukhtin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "246910990-6",
+    "author": "Harrie",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "969896345-6",
+    "author": "Gapper",
+    "name": "Transportation Services"
+  },
+  {
+    "isbn": "084785228-8",
+    "author": "Weld",
+    "name": "n/a"
+  },
+  {
+    "isbn": "784497049-9",
+    "author": "Ell",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "060403114-9",
+    "author": "Tidbold",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "892020323-7",
+    "author": "Elwood",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "646029907-2",
+    "author": "Standbrook",
+    "name": "Publishing"
+  },
+  {
+    "isbn": "616757753-6",
+    "author": "Teaser",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "812502539-1",
+    "author": "Leghorn",
+    "name": "n/a"
+  },
+  {
+    "isbn": "269322673-2",
+    "author": "Silverthorn",
+    "name": "Computer Software: Programming, Data Processing"
+  },
+  {
+    "isbn": "271675307-5",
+    "author": "Bradburn",
+    "name": "Electronic Components"
+  },
+  {
+    "isbn": "267393073-6",
+    "author": "Crumbleholme",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "302934428-2",
+    "author": "Tollit",
+    "name": "Computer Manufacturing"
+  },
+  {
+    "isbn": "531975879-0",
+    "author": "McKeeman",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "757852498-4",
+    "author": "Squibb",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "070111827-X",
+    "author": "Killingbeck",
+    "name": "n/a"
+  },
+  {
+    "isbn": "668732581-7",
+    "author": "Fowle",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "811782011-0",
+    "author": "Devenish",
+    "name": "Air Freight/Delivery Services"
+  },
+  {
+    "isbn": "887059517-X",
+    "author": "Graeser",
+    "name": "n/a"
+  },
+  {
+    "isbn": "444294145-9",
+    "author": "Jeandet",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "890487820-9",
+    "author": "Cadge",
+    "name": "n/a"
+  },
+  {
+    "isbn": "875053784-9",
+    "author": "Gornal",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "902944716-8",
+    "author": "Iles",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "644153342-1",
+    "author": "Cromly",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "962123862-5",
+    "author": "Hatliffe",
+    "name": "n/a"
+  },
+  {
+    "isbn": "253847087-0",
+    "author": "Bawme",
+    "name": "n/a"
+  },
+  {
+    "isbn": "843324164-8",
+    "author": "Feldberg",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "797449185-X",
+    "author": "Geeraert",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "759035104-0",
+    "author": "Crittal",
+    "name": "Advertising"
+  },
+  {
+    "isbn": "457900404-3",
+    "author": "Burney",
+    "name": "Hotels/Resorts"
+  },
+  {
+    "isbn": "505277285-8",
+    "author": "MacPeake",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "262080775-1",
+    "author": "Martyns",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "996634476-4",
+    "author": "Wignall",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "586897657-6",
+    "author": "Brewis",
+    "name": "n/a"
+  },
+  {
+    "isbn": "641128349-4",
+    "author": "Magowan",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "140814947-8",
+    "author": "Volleth",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "547231621-9",
+    "author": "Manhood",
+    "name": "Engineering & Construction"
+  },
+  {
+    "isbn": "416728050-7",
+    "author": "Flegg",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "431108954-6",
+    "author": "Ornells",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "393709668-X",
+    "author": "Legerton",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "227274615-2",
+    "author": "Ducarel",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "104695600-0",
+    "author": "Crothers",
+    "name": "Railroads"
+  },
+  {
+    "isbn": "780124670-5",
+    "author": "Willshire",
+    "name": "n/a"
+  },
+  {
+    "isbn": "204427577-5",
+    "author": "Purchall",
+    "name": "Computer Software: Programming, Data Processing"
+  },
+  {
+    "isbn": "041974879-2",
+    "author": "Bawcock",
+    "name": "Computer Software: Programming, Data Processing"
+  },
+  {
+    "isbn": "596995468-3",
+    "author": "Krink",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "863659436-7",
+    "author": "Linck",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "420222261-X",
+    "author": "Gorch",
+    "name": "n/a"
+  },
+  {
+    "isbn": "793935653-4",
+    "author": "Dahlborg",
+    "name": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+  },
+  {
+    "isbn": "786286332-1",
+    "author": "Screech",
+    "name": "n/a"
+  },
+  {
+    "isbn": "325798853-2",
+    "author": "Ginnaly",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "033389193-7",
+    "author": "Vittore",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "675256581-3",
+    "author": "Alders",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "773637402-3",
+    "author": "Aspinall",
+    "name": "Banks"
+  },
+  {
+    "isbn": "972625822-7",
+    "author": "Bertot",
+    "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+  },
+  {
+    "isbn": "501461648-8",
+    "author": "Greaser",
+    "name": "n/a"
+  },
+  {
+    "isbn": "851759966-7",
+    "author": "McIndoe",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "305391786-6",
+    "author": "MacDougall",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "103254498-8",
+    "author": "Carlens",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "219481424-8",
+    "author": "Barnwill",
+    "name": "n/a"
+  },
+  {
+    "isbn": "462663124-X",
+    "author": "Ateridge",
+    "name": "n/a"
+  },
+  {
+    "isbn": "211753089-3",
+    "author": "Middlemist",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "057778470-6",
+    "author": "Jerche",
+    "name": "n/a"
+  },
+  {
+    "isbn": "537455079-9",
+    "author": "Parsand",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "272984725-1",
+    "author": "Siret",
+    "name": "n/a"
+  },
+  {
+    "isbn": "371374753-9",
+    "author": "Lanfranconi",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "029809940-3",
+    "author": "Spalls",
+    "name": "Aerospace"
+  },
+  {
+    "isbn": "921596357-X",
+    "author": "McGillecole",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "598906328-8",
+    "author": "Okenden",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "941193516-8",
+    "author": "Finkle",
+    "name": "Integrated oil Companies"
+  },
+  {
+    "isbn": "113866197-X",
+    "author": "Brea",
+    "name": "n/a"
+  },
+  {
+    "isbn": "449686326-X",
+    "author": "Ginni",
+    "name": "n/a"
+  },
+  {
+    "isbn": "279297654-3",
+    "author": "Pimer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "347327224-8",
+    "author": "Hoy",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "472861687-8",
+    "author": "Whissell",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "152232316-3",
+    "author": "Bakey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "332969762-8",
+    "author": "Dunbar",
+    "name": "Trucking Freight/Courier Services"
+  },
+  {
+    "isbn": "654304047-5",
+    "author": "Aleksahkin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "086472011-4",
+    "author": "Lovegrove",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "869431199-2",
+    "author": "Shatliff",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "963392667-X",
+    "author": "Trewhela",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "476405191-5",
+    "author": "Sudy",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "169370429-3",
+    "author": "Arnopp",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "137019393-9",
+    "author": "Bignal",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "151297777-2",
+    "author": "Kitchenside",
+    "name": "n/a"
+  },
+  {
+    "isbn": "347493082-6",
+    "author": "Blitz",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "394963786-9",
+    "author": "Yepiskov",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "540962979-5",
+    "author": "Boreham",
+    "name": "n/a"
+  },
+  {
+    "isbn": "292523548-4",
+    "author": "Garrison",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "154300243-9",
+    "author": "McCarver",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "982535579-4",
+    "author": "Ledeker",
+    "name": "n/a"
+  },
+  {
+    "isbn": "338324689-2",
+    "author": "Ritelli",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "091537358-0",
+    "author": "Shillitto",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "576217399-2",
+    "author": "Venton",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "164575034-5",
+    "author": "Babidge",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "693036352-9",
+    "author": "Blackney",
+    "name": "n/a"
+  },
+  {
+    "isbn": "543510254-5",
+    "author": "Trembath",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "628957648-8",
+    "author": "Orrick",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "563539452-3",
+    "author": "Seeley",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "905682271-3",
+    "author": "Prichard",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "264734533-3",
+    "author": "Adolthine",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "096958230-7",
+    "author": "Beagen",
+    "name": "n/a"
+  },
+  {
+    "isbn": "920097514-3",
+    "author": "Vlasin",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "250387472-X",
+    "author": "Dyche",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "757598770-3",
+    "author": "Ireland",
+    "name": "Consumer Specialties"
+  },
+  {
+    "isbn": "612370382-X",
+    "author": "Paik",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "314150596-9",
+    "author": "Duffyn",
+    "name": "n/a"
+  },
+  {
+    "isbn": "344948614-4",
+    "author": "Saunter",
+    "name": "Auto Parts:O.E.M."
+  },
+  {
+    "isbn": "527979137-7",
+    "author": "Polotti",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "333927091-0",
+    "author": "MacNalley",
+    "name": "n/a"
+  },
+  {
+    "isbn": "840997176-3",
+    "author": "Lukock",
+    "name": "Other Specialty Stores"
+  },
+  {
+    "isbn": "775287195-8",
+    "author": "Cathcart",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "436479135-0",
+    "author": "Vigne",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "209961481-4",
+    "author": "Swadlen",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "465987276-9",
+    "author": "McKelloch",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "671139906-4",
+    "author": "Murfill",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "343976397-8",
+    "author": "Hamlin",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "720338569-8",
+    "author": "Peschmann",
+    "name": "Paper"
+  },
+  {
+    "isbn": "957622743-7",
+    "author": "Pinnijar",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "296699630-7",
+    "author": "Mallabone",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "578227184-1",
+    "author": "Adshed",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "261818895-0",
+    "author": "Spedroni",
+    "name": "Computer peripheral equipment"
+  },
+  {
+    "isbn": "943397028-4",
+    "author": "Richardin",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "725213940-9",
+    "author": "Radbone",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "546124469-6",
+    "author": "Patis",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "110319025-3",
+    "author": "Skain",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "617125429-0",
+    "author": "Fessier",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "010267058-7",
+    "author": "Tonepohl",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "779379091-X",
+    "author": "Woodsford",
+    "name": "n/a"
+  },
+  {
+    "isbn": "210148756-X",
+    "author": "Clemencon",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "651972177-8",
+    "author": "Gioan",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "060900515-4",
+    "author": "Frankis",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "388794841-6",
+    "author": "Layus",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "800849908-7",
+    "author": "Ephson",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "330323117-6",
+    "author": "Rapaport",
+    "name": "n/a"
+  },
+  {
+    "isbn": "208428360-4",
+    "author": "Duffield",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "028373384-5",
+    "author": "Vannuchi",
+    "name": "n/a"
+  },
+  {
+    "isbn": "092100967-4",
+    "author": "Cokayne",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "350483307-6",
+    "author": "Skilling",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "342049557-9",
+    "author": "Monson",
+    "name": "n/a"
+  },
+  {
+    "isbn": "792510838-X",
+    "author": "Kevlin",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "503435016-5",
+    "author": "Pettitt",
+    "name": "Commercial Banks"
+  },
+  {
+    "isbn": "946643775-5",
+    "author": "Pagett",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "236283608-8",
+    "author": "Carley",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "273622105-2",
+    "author": "Dimont",
+    "name": "Home Furnishings"
+  },
+  {
+    "isbn": "735771999-5",
+    "author": "Wye",
+    "name": "Package Goods/Cosmetics"
+  },
+  {
+    "isbn": "271810982-3",
+    "author": "Jilkes",
+    "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+  },
+  {
+    "isbn": "126862923-5",
+    "author": "Muselli",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "873661155-7",
+    "author": "Brown",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "001641517-5",
+    "author": "Beaven",
+    "name": "n/a"
+  },
+  {
+    "isbn": "804092663-7",
+    "author": "Denty",
+    "name": "Building Materials"
+  },
+  {
+    "isbn": "446134858-X",
+    "author": "Alphonso",
+    "name": "Trucking Freight/Courier Services"
+  },
+  {
+    "isbn": "756991039-7",
+    "author": "Haking",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "183335473-7",
+    "author": "Thorndale",
+    "name": "n/a"
+  },
+  {
+    "isbn": "816514550-9",
+    "author": "Ferrarello",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "191436447-3",
+    "author": "Strass",
+    "name": "n/a"
+  },
+  {
+    "isbn": "844910520-X",
+    "author": "Wearn",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "752830280-5",
+    "author": "Scrange",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "478923610-2",
+    "author": "O' Scallan",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "659965976-4",
+    "author": "Moro",
+    "name": "n/a"
+  },
+  {
+    "isbn": "658618428-2",
+    "author": "Witling",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "508109930-9",
+    "author": "Gaudin",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "305082406-9",
+    "author": "Detoc",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "699437062-3",
+    "author": "Miroy",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "658686677-4",
+    "author": "McGorman",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "492482635-9",
+    "author": "Burnsyde",
+    "name": "n/a"
+  },
+  {
+    "isbn": "762073240-3",
+    "author": "Linebarger",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "697059784-9",
+    "author": "Keirl",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "380899462-2",
+    "author": "Wingham",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "205716467-5",
+    "author": "Tomsu",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "730225152-5",
+    "author": "Andrey",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "807834582-8",
+    "author": "Marle",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "148505365-X",
+    "author": "Antoniat",
+    "name": "Plastic Products"
+  },
+  {
+    "isbn": "764403993-7",
+    "author": "Ruzic",
+    "name": "n/a"
+  },
+  {
+    "isbn": "595720289-4",
+    "author": "Glozman",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "268596023-6",
+    "author": "Proudley",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "158640701-5",
+    "author": "Houson",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "139702036-9",
+    "author": "Domenichini",
+    "name": "n/a"
+  },
+  {
+    "isbn": "281112143-9",
+    "author": "Gillan",
+    "name": "n/a"
+  },
+  {
+    "isbn": "701315107-6",
+    "author": "Airey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "705126139-8",
+    "author": "Greenman",
+    "name": "n/a"
+  },
+  {
+    "isbn": "963083007-8",
+    "author": "Rosenvasser",
+    "name": "n/a"
+  },
+  {
+    "isbn": "074253170-8",
+    "author": "Giggs",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "226297989-8",
+    "author": "Adamec",
+    "name": "n/a"
+  },
+  {
+    "isbn": "695918928-4",
+    "author": "Josipovitz",
+    "name": "n/a"
+  },
+  {
+    "isbn": "074743881-1",
+    "author": "Kembrey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "547131627-4",
+    "author": "Matthews",
+    "name": "n/a"
+  },
+  {
+    "isbn": "586558925-3",
+    "author": "Maypole",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "731011083-8",
+    "author": "Hurle",
+    "name": "Precision Instruments"
+  },
+  {
+    "isbn": "217281201-3",
+    "author": "Peet",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "967774313-9",
+    "author": "Medforth",
+    "name": "Apparel"
+  },
+  {
+    "isbn": "804537952-9",
+    "author": "Yakovliv",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "174462221-3",
+    "author": "Stockbridge",
+    "name": "n/a"
+  },
+  {
+    "isbn": "962316467-X",
+    "author": "Hamlin",
+    "name": "Other Specialty Stores"
+  },
+  {
+    "isbn": "210914992-2",
+    "author": "Pluvier",
+    "name": "Computer Manufacturing"
+  },
+  {
+    "isbn": "838604831-X",
+    "author": "Fishbie",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "629410262-6",
+    "author": "Bath",
+    "name": "n/a"
+  },
+  {
+    "isbn": "897400889-0",
+    "author": "Pollak",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "902913274-4",
+    "author": "Glancy",
+    "name": "Oil Refining/Marketing"
+  },
+  {
+    "isbn": "124983004-4",
+    "author": "Nockells",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "775564698-X",
+    "author": "Grenfell",
+    "name": "Building Products"
+  },
+  {
+    "isbn": "647996509-4",
+    "author": "Trew",
+    "name": "Clothing/Shoe/Accessory Stores"
+  },
+  {
+    "isbn": "869737860-5",
+    "author": "Grutchfield",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "839469426-8",
+    "author": "Korejs",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "944165324-1",
+    "author": "Pedel",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "273236046-5",
+    "author": "Douris",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "058938235-7",
+    "author": "Willetts",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "428232679-4",
+    "author": "Fery",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "646509258-1",
+    "author": "Adolfsen",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "410220524-1",
+    "author": "Bertin",
+    "name": "Paper"
+  },
+  {
+    "isbn": "848696411-3",
+    "author": "Aberkirder",
+    "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+  },
+  {
+    "isbn": "046150704-8",
+    "author": "Crunden",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "871807138-4",
+    "author": "Kowalik",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "951867688-7",
+    "author": "Bartelli",
+    "name": "Fluid Controls"
+  },
+  {
+    "isbn": "991860792-0",
+    "author": "McGivena",
+    "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+  },
+  {
+    "isbn": "960028713-9",
+    "author": "Kurth",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "297595370-4",
+    "author": "Carryer",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "808635330-3",
+    "author": "Gaber",
+    "name": "Other Specialty Stores"
+  },
+  {
+    "isbn": "863630192-0",
+    "author": "Hubbart",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "609327264-8",
+    "author": "Kirtland",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "298129430-X",
+    "author": "Cordery",
+    "name": "Agricultural Chemicals"
+  },
+  {
+    "isbn": "518320323-7",
+    "author": "De Zamudio",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "131730814-X",
+    "author": "Fogg",
+    "name": "n/a"
+  },
+  {
+    "isbn": "687602696-5",
+    "author": "Vieyra",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "340701518-6",
+    "author": "Yendall",
+    "name": "Agricultural Chemicals"
+  },
+  {
+    "isbn": "204244116-3",
+    "author": "Kempston",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "954157873-X",
+    "author": "Cluckie",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "203939160-6",
+    "author": "Gunn",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "072664317-3",
+    "author": "Folbige",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "125129381-6",
+    "author": "Robison",
+    "name": "Professional Services"
+  },
+  {
+    "isbn": "913514413-0",
+    "author": "Scollick",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "049726694-6",
+    "author": "Batalle",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "954071886-4",
+    "author": "Britton",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "585711798-4",
+    "author": "Fulger",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "705245591-9",
+    "author": "Arpin",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "897849468-4",
+    "author": "Challoner",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "908814055-3",
+    "author": "Whistance",
+    "name": "n/a"
+  },
+  {
+    "isbn": "420885470-7",
+    "author": "Goodluck",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "473476637-1",
+    "author": "Moulster",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "233764047-7",
+    "author": "Kopman",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "632998191-4",
+    "author": "Foltin",
+    "name": "Environmental Services"
+  },
+  {
+    "isbn": "818037949-3",
+    "author": "Housaman",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "965225369-3",
+    "author": "Blennerhassett",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "577761977-0",
+    "author": "Okell",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "817391937-2",
+    "author": "Cranfield",
+    "name": "n/a"
+  },
+  {
+    "isbn": "631038690-5",
+    "author": "Constance",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "365903473-8",
+    "author": "Wilne",
+    "name": "Auto Parts:O.E.M."
+  },
+  {
+    "isbn": "410439159-X",
+    "author": "Westcot",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "917473581-0",
+    "author": "Kausche",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "928396014-9",
+    "author": "Gritten",
+    "name": "n/a"
+  },
+  {
+    "isbn": "932507757-4",
+    "author": "Prandy",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "024028955-2",
+    "author": "Yate",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "297159422-X",
+    "author": "McWard",
+    "name": "Hotels/Resorts"
+  },
+  {
+    "isbn": "181541302-6",
+    "author": "Jeary",
+    "name": "Automotive Aftermarket"
+  },
+  {
+    "isbn": "592204902-X",
+    "author": "Joselovitch",
+    "name": "n/a"
+  },
+  {
+    "isbn": "005061672-2",
+    "author": "Bonhome",
+    "name": "n/a"
+  },
+  {
+    "isbn": "914039972-9",
+    "author": "Rubinowicz",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "933267031-5",
+    "author": "Blue",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "883341927-4",
+    "author": "Kasparski",
+    "name": "Electronic Components"
+  },
+  {
+    "isbn": "280494010-1",
+    "author": "Cousen",
+    "name": "Medical/Nursing Services"
+  },
+  {
+    "isbn": "790463954-8",
+    "author": "Skelbeck",
+    "name": "Department/Specialty Retail Stores"
+  },
+  {
+    "isbn": "011161857-6",
+    "author": "Hulmes",
+    "name": "n/a"
+  },
+  {
+    "isbn": "239249792-3",
+    "author": "Babbs",
+    "name": "Commercial Banks"
+  },
+  {
+    "isbn": "536551626-5",
+    "author": "Drillingcourt",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "400732458-1",
+    "author": "Brick",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "362911108-4",
+    "author": "Blaber",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "191195684-1",
+    "author": "Dello",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "168143897-6",
+    "author": "Toland",
+    "name": "Consumer Electronics/Appliances"
+  },
+  {
+    "isbn": "880476480-5",
+    "author": "Augur",
+    "name": "n/a"
+  },
+  {
+    "isbn": "533239487-X",
+    "author": "Francescozzi",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "277398518-4",
+    "author": "Scoyne",
+    "name": "Diversified Financial Services"
+  },
+  {
+    "isbn": "496197231-2",
+    "author": "Spurman",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "679546394-X",
+    "author": "Kupper",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "082157534-1",
+    "author": "Van T'Hoog",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "567085344-X",
+    "author": "Weinham",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "791806341-4",
+    "author": "Challener",
+    "name": "Paints/Coatings"
+  },
+  {
+    "isbn": "106257725-6",
+    "author": "MacShirie",
+    "name": "n/a"
+  },
+  {
+    "isbn": "386666175-4",
+    "author": "Elloway",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "419353676-9",
+    "author": "Glader",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "083980250-1",
+    "author": "De la Perrelle",
+    "name": "Automotive Aftermarket"
+  },
+  {
+    "isbn": "354261645-1",
+    "author": "Ziemens",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "903343211-0",
+    "author": "Di Boldi",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "193115509-7",
+    "author": "Winders",
+    "name": "n/a"
+  },
+  {
+    "isbn": "875856549-3",
+    "author": "Dodsworth",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "080087588-5",
+    "author": "Kaspar",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "620231774-4",
+    "author": "Poacher",
+    "name": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  {
+    "isbn": "909982374-6",
+    "author": "Lambkin",
+    "name": "Other Specialty Stores"
+  },
+  {
+    "isbn": "425305614-8",
+    "author": "Sedgeworth",
+    "name": "Paper"
+  },
+  {
+    "isbn": "080643629-8",
+    "author": "Ebourne",
+    "name": "Professional Services"
+  },
+  {
+    "isbn": "653638187-4",
+    "author": "Yeeles",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "873922084-2",
+    "author": "Dawks",
+    "name": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  {
+    "isbn": "686044184-4",
+    "author": "Dallyn",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "707498459-0",
+    "author": "Westnage",
+    "name": "n/a"
+  },
+  {
+    "isbn": "923444328-4",
+    "author": "O'Lennachain",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "368816549-7",
+    "author": "Priditt",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "452267481-3",
+    "author": "Blakes",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "622214653-8",
+    "author": "Emptage",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "720064280-0",
+    "author": "Lillow",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "688035473-4",
+    "author": "Gaines",
+    "name": "n/a"
+  },
+  {
+    "isbn": "964172299-9",
+    "author": "Vinau",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "984030131-4",
+    "author": "Tottle",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "113921422-5",
+    "author": "Bemment",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "828701026-8",
+    "author": "Gledhill",
+    "name": "n/a"
+  },
+  {
+    "isbn": "009881356-0",
+    "author": "Bosward",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "856520420-0",
+    "author": "Han",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "488284727-2",
+    "author": "Blackledge",
+    "name": "Agricultural Chemicals"
+  },
+  {
+    "isbn": "415551118-5",
+    "author": "Tarquinio",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "708343769-6",
+    "author": "Matous",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "031052269-2",
+    "author": "Plenty",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "108984243-0",
+    "author": "Woolmer",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "578086988-X",
+    "author": "Wheal",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "837346622-3",
+    "author": "Ibeson",
+    "name": "n/a"
+  },
+  {
+    "isbn": "091885345-1",
+    "author": "Newrick",
+    "name": "n/a"
+  },
+  {
+    "isbn": "048845378-X",
+    "author": "Pearsall",
+    "name": "Engineering & Construction"
+  },
+  {
+    "isbn": "072234502-X",
+    "author": "Cassell",
+    "name": "Oil Refining/Marketing"
+  },
+  {
+    "isbn": "792715554-7",
+    "author": "Addicott",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "062751070-1",
+    "author": "Size",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "406327946-4",
+    "author": "Roache",
+    "name": "Integrated oil Companies"
+  },
+  {
+    "isbn": "318635875-2",
+    "author": "Tinn",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "938878048-5",
+    "author": "Tomicki",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "073459659-6",
+    "author": "Troucher",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "601452911-X",
+    "author": "Puddle",
+    "name": "n/a"
+  },
+  {
+    "isbn": "619097310-8",
+    "author": "Jackson",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "285589521-9",
+    "author": "Winram",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "443106510-5",
+    "author": "Iacovino",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "737521063-2",
+    "author": "Fronczak",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "869786806-8",
+    "author": "Kynton",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "158330844-X",
+    "author": "MacGibbon",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "222177162-1",
+    "author": "Hrus",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "901686209-9",
+    "author": "Aloshechkin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "671769597-8",
+    "author": "Majury",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "964987391-0",
+    "author": "Alastair",
+    "name": "n/a"
+  },
+  {
+    "isbn": "606994737-1",
+    "author": "Charman",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "089122910-8",
+    "author": "Brewins",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "390695511-7",
+    "author": "Jahan",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "175447213-3",
+    "author": "Bellamy",
+    "name": "Other Specialty Stores"
+  },
+  {
+    "isbn": "571601075-X",
+    "author": "Battin",
+    "name": "Textiles"
+  },
+  {
+    "isbn": "670924595-0",
+    "author": "Munnings",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "530793823-3",
+    "author": "Schubert",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "181834064-X",
+    "author": "Berryman",
+    "name": "n/a"
+  },
+  {
+    "isbn": "335190495-9",
+    "author": "Robottom",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "661725866-5",
+    "author": "Merck",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "742950240-7",
+    "author": "Perigo",
+    "name": "n/a"
+  },
+  {
+    "isbn": "927410855-9",
+    "author": "Garwill",
+    "name": "n/a"
+  },
+  {
+    "isbn": "307286633-3",
+    "author": "Downe",
+    "name": "n/a"
+  },
+  {
+    "isbn": "698264332-8",
+    "author": "Myhill",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "898907646-3",
+    "author": "Parminter",
+    "name": "Oilfield Services/Equipment"
+  },
+  {
+    "isbn": "129946399-1",
+    "author": "Buney",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "488640179-1",
+    "author": "Upjohn",
+    "name": "n/a"
+  },
+  {
+    "isbn": "402463635-9",
+    "author": "Ivanenkov",
+    "name": "n/a"
+  },
+  {
+    "isbn": "281483031-7",
+    "author": "Newart",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "893782117-6",
+    "author": "Messenger",
+    "name": "Air Freight/Delivery Services"
+  },
+  {
+    "isbn": "676890768-9",
+    "author": "Bowld",
+    "name": "Environmental Services"
+  },
+  {
+    "isbn": "830198010-9",
+    "author": "Cicullo",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "770803710-7",
+    "author": "Smallsman",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "956424758-6",
+    "author": "Castledine",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "600839280-9",
+    "author": "Enos",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "396188665-2",
+    "author": "Crass",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "336901316-9",
+    "author": "Messier",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "935784244-6",
+    "author": "Grief",
+    "name": "n/a"
+  },
+  {
+    "isbn": "333012787-2",
+    "author": "Raine",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "441774596-X",
+    "author": "Jennemann",
+    "name": "Integrated oil Companies"
+  },
+  {
+    "isbn": "903988294-0",
+    "author": "Defraine",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "736143435-5",
+    "author": "Lockney",
+    "name": "n/a"
+  },
+  {
+    "isbn": "247389692-5",
+    "author": "Pollicott",
+    "name": "Coal Mining"
+  },
+  {
+    "isbn": "078180831-6",
+    "author": "Samworth",
+    "name": "Oil Refining/Marketing"
+  },
+  {
+    "isbn": "829255698-2",
+    "author": "Minghetti",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "014528417-4",
+    "author": "Foort",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "630173857-8",
+    "author": "Mattack",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "541482228-X",
+    "author": "Waghorne",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "338741673-3",
+    "author": "Sleaford",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "247500079-1",
+    "author": "Neagle",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "088373831-7",
+    "author": "Ohms",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "899258308-7",
+    "author": "Witnall",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "074403732-8",
+    "author": "Duckerin",
+    "name": "Package Goods/Cosmetics"
+  },
+  {
+    "isbn": "730880770-3",
+    "author": "Ashman",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "425394161-3",
+    "author": "Dumingos",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "999127907-5",
+    "author": "Tansley",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "941073691-9",
+    "author": "Ruddoch",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "869709347-3",
+    "author": "Spinnace",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "981167518-X",
+    "author": "Gardener",
+    "name": "n/a"
+  },
+  {
+    "isbn": "271976500-7",
+    "author": "Gooders",
+    "name": "Publishing"
+  },
+  {
+    "isbn": "583596829-9",
+    "author": "Dreghorn",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "755905376-9",
+    "author": "Benes",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "701675210-0",
+    "author": "Wybron",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "247422113-1",
+    "author": "Vannah",
+    "name": "n/a"
+  },
+  {
+    "isbn": "492289466-7",
+    "author": "Batson",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "607360647-8",
+    "author": "Naisbitt",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "674128006-5",
+    "author": "Deboick",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "797945497-9",
+    "author": "Jackman",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "678047468-1",
+    "author": "Buckles",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "153232147-3",
+    "author": "Sapir",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "437147252-4",
+    "author": "Airs",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "926276868-0",
+    "author": "Prestwich",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "034676612-5",
+    "author": "Harsnipe",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "648950788-9",
+    "author": "Bentote",
+    "name": "Specialty Insurers"
+  },
+  {
+    "isbn": "979105644-7",
+    "author": "Berkowitz",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "284943192-3",
+    "author": "Licari",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "563258960-9",
+    "author": "Archley",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "485451198-2",
+    "author": "Haswall",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "069903511-2",
+    "author": "Bromige",
+    "name": "n/a"
+  },
+  {
+    "isbn": "404191705-0",
+    "author": "Blakey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "494990386-1",
+    "author": "Hightown",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "954952085-4",
+    "author": "Matschuk",
+    "name": "n/a"
+  },
+  {
+    "isbn": "683831574-2",
+    "author": "Ollet",
+    "name": "n/a"
+  },
+  {
+    "isbn": "055755138-2",
+    "author": "Varnham",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "184126345-1",
+    "author": "Braben",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "613399149-6",
+    "author": "Meriot",
+    "name": "n/a"
+  },
+  {
+    "isbn": "979658075-6",
+    "author": "Lloyd-Williams",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "755462791-0",
+    "author": "Amsberger",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "971709626-0",
+    "author": "Sidaway",
+    "name": "n/a"
+  },
+  {
+    "isbn": "879758711-7",
+    "author": "McVitty",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "764506253-3",
+    "author": "Stendall",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "497499584-7",
+    "author": "Arcase",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "185741350-4",
+    "author": "Aitkin",
+    "name": "Professional Services"
+  },
+  {
+    "isbn": "429491968-X",
+    "author": "Ballsdon",
+    "name": "Department/Specialty Retail Stores"
+  },
+  {
+    "isbn": "011813633-X",
+    "author": "Mathon",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "099270245-3",
+    "author": "Mitchard",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "363871273-7",
+    "author": "Geertz",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "203871655-2",
+    "author": "Lloyd-Williams",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "470203064-7",
+    "author": "Brimacombe",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "039659147-7",
+    "author": "Ricciardelli",
+    "name": "n/a"
+  },
+  {
+    "isbn": "173187809-5",
+    "author": "Baurerich",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "806554597-1",
+    "author": "Haddick",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "421060180-2",
+    "author": "Foli",
+    "name": "Construction/Ag Equipment/Trucks"
+  },
+  {
+    "isbn": "530150724-9",
+    "author": "Dawltrey",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "362395718-6",
+    "author": "Beldon",
+    "name": "n/a"
+  },
+  {
+    "isbn": "594339911-9",
+    "author": "Olyfat",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "261056040-0",
+    "author": "Fearns",
+    "name": "n/a"
+  },
+  {
+    "isbn": "290633960-1",
+    "author": "Blanning",
+    "name": "n/a"
+  },
+  {
+    "isbn": "875114360-7",
+    "author": "Meiklem",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "793430557-5",
+    "author": "Grahamslaw",
+    "name": "Construction/Ag Equipment/Trucks"
+  },
+  {
+    "isbn": "987184729-7",
+    "author": "Wheeldon",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "702946140-1",
+    "author": "Nucator",
+    "name": "Package Goods/Cosmetics"
+  },
+  {
+    "isbn": "021688686-4",
+    "author": "Bunn",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "426484543-2",
+    "author": "Ferreiro",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "547329261-5",
+    "author": "Matevushev",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "885810925-2",
+    "author": "Bickersteth",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "080086476-X",
+    "author": "Stafford",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "543224776-3",
+    "author": "Stallworth",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "996963974-9",
+    "author": "Nouch",
+    "name": "RETAIL: Building Materials"
+  },
+  {
+    "isbn": "390980570-1",
+    "author": "Abramcik",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "953169226-2",
+    "author": "Tattersdill",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "929868359-6",
+    "author": "Pirkis",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "951906682-9",
+    "author": "Feifer",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "705515545-2",
+    "author": "Tamblyn",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "502883963-8",
+    "author": "Rawcliff",
+    "name": "Consumer Electronics/Appliances"
+  },
+  {
+    "isbn": "071412187-8",
+    "author": "Ridulfo",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "558136566-0",
+    "author": "Horsley",
+    "name": "Environmental Services"
+  },
+  {
+    "isbn": "169464931-8",
+    "author": "Dorricott",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "705151126-2",
+    "author": "Pinnere",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "735725805-X",
+    "author": "Hovey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "156823828-2",
+    "author": "Vinker",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "812980914-1",
+    "author": "Espinazo",
+    "name": "Department/Specialty Retail Stores"
+  },
+  {
+    "isbn": "641083373-3",
+    "author": "Gaze",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "194015350-6",
+    "author": "Feldhammer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "963276268-1",
+    "author": "Mottershead",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "046341575-2",
+    "author": "Croke",
+    "name": "Computer Software: Programming, Data Processing"
+  },
+  {
+    "isbn": "024054549-4",
+    "author": "Bourbon",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "248612752-6",
+    "author": "Dawson",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "995359500-3",
+    "author": "Hastler",
+    "name": "n/a"
+  },
+  {
+    "isbn": "084253534-9",
+    "author": "Sketcher",
+    "name": "n/a"
+  },
+  {
+    "isbn": "677753625-6",
+    "author": "Onge",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "528488193-1",
+    "author": "Blurton",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "842812830-8",
+    "author": "Bragg",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "600013456-8",
+    "author": "Headon",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "478101602-2",
+    "author": "Clubley",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "252973698-7",
+    "author": "Wylam",
+    "name": "n/a"
+  },
+  {
+    "isbn": "458427579-3",
+    "author": "Dubois",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "781837392-6",
+    "author": "Palumbo",
+    "name": "n/a"
+  },
+  {
+    "isbn": "735156829-4",
+    "author": "Awcock",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "727547987-7",
+    "author": "Outhwaite",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "278625916-9",
+    "author": "Baldree",
+    "name": "n/a"
+  },
+  {
+    "isbn": "013839400-8",
+    "author": "Withur",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "253506699-8",
+    "author": "Marjanovic",
+    "name": "n/a"
+  },
+  {
+    "isbn": "636233393-4",
+    "author": "Cripwell",
+    "name": "Biotechnology: Laboratory Analytical Instruments"
+  },
+  {
+    "isbn": "456429764-3",
+    "author": "Waumsley",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "409942399-9",
+    "author": "Janecek",
+    "name": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)"
+  },
+  {
+    "isbn": "496857789-3",
+    "author": "Chidwick",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "394486370-4",
+    "author": "Milne",
+    "name": "Computer Manufacturing"
+  },
+  {
+    "isbn": "652966224-3",
+    "author": "Rolfs",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "150939402-8",
+    "author": "Bushe",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "174709298-3",
+    "author": "Helsdon",
+    "name": "Newspapers/Magazines"
+  },
+  {
+    "isbn": "460141270-6",
+    "author": "Zanre",
+    "name": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  {
+    "isbn": "323402089-2",
+    "author": "Kupisz",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "608258439-2",
+    "author": "Dradey",
+    "name": "n/a"
+  },
+  {
+    "isbn": "776958874-X",
+    "author": "Waldocke",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "845577438-X",
+    "author": "Elloy",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "649920722-5",
+    "author": "Francey",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "229942059-2",
+    "author": "Piggott",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "620138527-4",
+    "author": "Loody",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "575135362-5",
+    "author": "Escott",
+    "name": "n/a"
+  },
+  {
+    "isbn": "286014668-7",
+    "author": "Metzke",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "140536992-2",
+    "author": "Torns",
+    "name": "n/a"
+  },
+  {
+    "isbn": "963662622-7",
+    "author": "Aitcheson",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "716628149-9",
+    "author": "Heine",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "516543593-8",
+    "author": "Meigh",
+    "name": "Electronic Components"
+  },
+  {
+    "isbn": "169533216-4",
+    "author": "Calcraft",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "827654286-7",
+    "author": "Millhill",
+    "name": "Air Freight/Delivery Services"
+  },
+  {
+    "isbn": "595602624-3",
+    "author": "Frazer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "973805420-6",
+    "author": "Asbrey",
+    "name": "Building Materials"
+  },
+  {
+    "isbn": "956019017-2",
+    "author": "Oty",
+    "name": "n/a"
+  },
+  {
+    "isbn": "797227055-4",
+    "author": "Le Batteur",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "610372317-5",
+    "author": "Carette",
+    "name": "n/a"
+  },
+  {
+    "isbn": "647239638-8",
+    "author": "Pressman",
+    "name": "n/a"
+  },
+  {
+    "isbn": "109757223-4",
+    "author": "Clemas",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "374994543-8",
+    "author": "Dionisi",
+    "name": "Catalog/Specialty Distribution"
+  },
+  {
+    "isbn": "574019766-X",
+    "author": "Muttitt",
+    "name": "Air Freight/Delivery Services"
+  },
+  {
+    "isbn": "502576902-7",
+    "author": "Lattey",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "586852378-4",
+    "author": "Pollicatt",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "593677988-2",
+    "author": "Murdoch",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "787035497-X",
+    "author": "Sandison",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "673940025-3",
+    "author": "Gaughan",
+    "name": "Diversified Commercial Services"
+  },
+  {
+    "isbn": "794411826-3",
+    "author": "Epinoy",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "643001290-5",
+    "author": "Hollow",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "264340620-6",
+    "author": "Dobeson",
+    "name": "n/a"
+  },
+  {
+    "isbn": "429888730-8",
+    "author": "Peinke",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "627588613-7",
+    "author": "Yeulet",
+    "name": "n/a"
+  },
+  {
+    "isbn": "151683035-0",
+    "author": "Darcy",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "664541474-9",
+    "author": "Hedge",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "860754392-X",
+    "author": "Maultby",
+    "name": "n/a"
+  },
+  {
+    "isbn": "915196248-9",
+    "author": "Stamper",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "889358532-4",
+    "author": "Meeny",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "592423119-4",
+    "author": "McDermot",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "271364420-8",
+    "author": "Fieldstone",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "078567703-8",
+    "author": "Swadlinge",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "737697713-9",
+    "author": "Maywood",
+    "name": "Accident &Health Insurance"
+  },
+  {
+    "isbn": "367602683-7",
+    "author": "Madgett",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "833379966-3",
+    "author": "Hubery",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "753384855-1",
+    "author": "Corain",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "520708741-X",
+    "author": "Vinker",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "844843020-4",
+    "author": "Kinnie",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "221917349-6",
+    "author": "Blasio",
+    "name": "n/a"
+  },
+  {
+    "isbn": "842315747-4",
+    "author": "Watman",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "157304050-9",
+    "author": "Wildes",
+    "name": "Oilfield Services/Equipment"
+  },
+  {
+    "isbn": "297914322-7",
+    "author": "Bapty",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "735339061-1",
+    "author": "Assiratti",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "301880212-8",
+    "author": "Seydlitz",
+    "name": "Fluid Controls"
+  },
+  {
+    "isbn": "939986733-1",
+    "author": "Klimochkin",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "557601567-3",
+    "author": "Button",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "567414236-X",
+    "author": "Este",
+    "name": "Medical/Nursing Services"
+  },
+  {
+    "isbn": "634000299-4",
+    "author": "Worham",
+    "name": "n/a"
+  },
+  {
+    "isbn": "996651328-0",
+    "author": "Luckman",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "407951185-X",
+    "author": "Grammer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "941070399-9",
+    "author": "Geram",
+    "name": "n/a"
+  },
+  {
+    "isbn": "079423149-7",
+    "author": "Giacobillo",
+    "name": "Banks"
+  },
+  {
+    "isbn": "303346325-8",
+    "author": "Petrus",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "088226730-2",
+    "author": "Minchella",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "947281421-2",
+    "author": "Phittiplace",
+    "name": "Commercial Banks"
+  },
+  {
+    "isbn": "071191741-8",
+    "author": "Housam",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "048145677-5",
+    "author": "O'Rafferty",
+    "name": "n/a"
+  },
+  {
+    "isbn": "821182556-2",
+    "author": "Rangell",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "803290950-8",
+    "author": "Blackster",
+    "name": "n/a"
+  },
+  {
+    "isbn": "922647092-8",
+    "author": "Buss",
+    "name": "n/a"
+  },
+  {
+    "isbn": "859609171-8",
+    "author": "Santer",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "669732618-2",
+    "author": "Ogg",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "118024119-3",
+    "author": "Janicki",
+    "name": "Railroads"
+  },
+  {
+    "isbn": "201008861-1",
+    "author": "Deavin",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "419638080-8",
+    "author": "Josef",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "714780486-4",
+    "author": "Werendell",
+    "name": "RETAIL: Building Materials"
+  },
+  {
+    "isbn": "306420906-X",
+    "author": "Hyman",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "726598892-2",
+    "author": "Milillo",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "951675635-2",
+    "author": "Ness",
+    "name": "Multi-Sector Companies"
+  },
+  {
+    "isbn": "343251766-1",
+    "author": "Romme",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "272785828-0",
+    "author": "Goublier",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "405909099-9",
+    "author": "Sambrok",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "411130612-8",
+    "author": "Pryell",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "240960575-3",
+    "author": "Giscken",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "709713537-9",
+    "author": "Hammerstone",
+    "name": "Specialty Insurers"
+  },
+  {
+    "isbn": "089423605-9",
+    "author": "Marchington",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "568148857-8",
+    "author": "Stygall",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "034735402-5",
+    "author": "Cuvley",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "921195331-6",
+    "author": "McGilvary",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "985770604-5",
+    "author": "Slainey",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "442988443-9",
+    "author": "Fawthorpe",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "892396203-1",
+    "author": "Pendlebury",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "519818191-9",
+    "author": "Welsh",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "720005941-2",
+    "author": "Wincom",
+    "name": "n/a"
+  },
+  {
+    "isbn": "777265609-2",
+    "author": "Dearell",
+    "name": "Diversified Commercial Services"
+  },
+  {
+    "isbn": "714341215-5",
+    "author": "Charopen",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "127174054-0",
+    "author": "Clarae",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "978120019-7",
+    "author": "Willgrass",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "571651653-X",
+    "author": "Auld",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "897883360-8",
+    "author": "Chismon",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "210282374-1",
+    "author": "Hurkett",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "181775000-3",
+    "author": "Wycliffe",
+    "name": "n/a"
+  },
+  {
+    "isbn": "100928202-6",
+    "author": "Scottesmoor",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "870062031-9",
+    "author": "Matzel",
+    "name": "Medical Specialities"
+  },
+  {
+    "isbn": "492989846-3",
+    "author": "Walisiak",
+    "name": "n/a"
+  },
+  {
+    "isbn": "638636750-2",
+    "author": "Riche",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "659400030-6",
+    "author": "Aleksankin",
+    "name": "n/a"
+  },
+  {
+    "isbn": "391631931-0",
+    "author": "Dignall",
+    "name": "n/a"
+  },
+  {
+    "isbn": "639608960-2",
+    "author": "Creeber",
+    "name": "n/a"
+  },
+  {
+    "isbn": "889272670-6",
+    "author": "Utley",
+    "name": "Television Services"
+  },
+  {
+    "isbn": "244592250-X",
+    "author": "Cowill",
+    "name": "n/a"
+  },
+  {
+    "isbn": "011212961-7",
+    "author": "Manger",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "885141216-2",
+    "author": "Eastbury",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "469887543-9",
+    "author": "Ekell",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "312381849-7",
+    "author": "Leatt",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "149093233-X",
+    "author": "Trenaman",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "256582908-6",
+    "author": "Grestie",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "456291086-0",
+    "author": "Langstrath",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "738813331-3",
+    "author": "Minchinden",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "414963348-7",
+    "author": "Purdom",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "483240956-5",
+    "author": "Anthoin",
+    "name": "Farming/Seeds/Milling"
+  },
+  {
+    "isbn": "830601897-4",
+    "author": "Arro",
+    "name": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  {
+    "isbn": "976762730-8",
+    "author": "Housbie",
+    "name": "n/a"
+  },
+  {
+    "isbn": "659155724-5",
+    "author": "Crichton",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "635447336-6",
+    "author": "Wheway",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "775220270-3",
+    "author": "Doughill",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "476888068-1",
+    "author": "Hellikes",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "308596108-9",
+    "author": "Spearett",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "830396335-X",
+    "author": "Fullager",
+    "name": "Department/Specialty Retail Stores"
+  },
+  {
+    "isbn": "045553470-5",
+    "author": "Darlison",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "535649890-X",
+    "author": "Vasiljevic",
+    "name": "Diversified Commercial Services"
+  },
+  {
+    "isbn": "252851552-9",
+    "author": "McTavy",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "005822040-2",
+    "author": "Eastment",
+    "name": "n/a"
+  },
+  {
+    "isbn": "200707139-8",
+    "author": "Looker",
+    "name": "n/a"
+  },
+  {
+    "isbn": "425506434-2",
+    "author": "Primmer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "763210905-6",
+    "author": "Sands-Allan",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "108056986-3",
+    "author": "Ivashov",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "255241377-3",
+    "author": "Frankom",
+    "name": "Department/Specialty Retail Stores"
+  },
+  {
+    "isbn": "237085009-4",
+    "author": "Farlane",
+    "name": "n/a"
+  },
+  {
+    "isbn": "821100465-8",
+    "author": "Neligan",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "590931984-1",
+    "author": "Stitcher",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "319545190-5",
+    "author": "Schimke",
+    "name": "Trucking Freight/Courier Services"
+  },
+  {
+    "isbn": "095357435-0",
+    "author": "Gouny",
+    "name": "n/a"
+  },
+  {
+    "isbn": "622367828-2",
+    "author": "Ravenhills",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "490058373-1",
+    "author": "Pearman",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "171678465-4",
+    "author": "Girardy",
+    "name": "Fluid Controls"
+  },
+  {
+    "isbn": "415045200-8",
+    "author": "Overal",
+    "name": "n/a"
+  },
+  {
+    "isbn": "102584951-5",
+    "author": "McAmish",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "803072643-0",
+    "author": "Hollow",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "890725252-1",
+    "author": "Denziloe",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "363617070-8",
+    "author": "Mathon",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "180879173-8",
+    "author": "Duxbarry",
+    "name": "Savings Institutions"
+  },
+  {
+    "isbn": "599236407-2",
+    "author": "Castanares",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "819895900-9",
+    "author": "Linay",
+    "name": "n/a"
+  },
+  {
+    "isbn": "598014871-X",
+    "author": "Chapling",
+    "name": "Home Furnishings"
+  },
+  {
+    "isbn": "954750945-4",
+    "author": "Golledge",
+    "name": "n/a"
+  },
+  {
+    "isbn": "961787666-3",
+    "author": "Beake",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "339128306-8",
+    "author": "Hassard",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "308933961-7",
+    "author": "Mattioli",
+    "name": "n/a"
+  },
+  {
+    "isbn": "012380969-X",
+    "author": "Nelmes",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "965032977-3",
+    "author": "Broske",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "529622430-2",
+    "author": "Corns",
+    "name": "Retail: Computer Software & Peripheral Equipment"
+  },
+  {
+    "isbn": "071261890-2",
+    "author": "Ballance",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "795731211-X",
+    "author": "Newell",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "432051482-3",
+    "author": "Castelot",
+    "name": "n/a"
+  },
+  {
+    "isbn": "165039107-2",
+    "author": "Dollen",
+    "name": "n/a"
+  },
+  {
+    "isbn": "463680648-4",
+    "author": "Cumbes",
+    "name": "Broadcasting"
+  },
+  {
+    "isbn": "539772526-9",
+    "author": "McDonell",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "783502015-7",
+    "author": "Corry",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "040461594-5",
+    "author": "Allberry",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "882555606-3",
+    "author": "Klassman",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "563651352-6",
+    "author": "Golding",
+    "name": "n/a"
+  },
+  {
+    "isbn": "604053855-4",
+    "author": "Kuhnt",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "468179660-3",
+    "author": "Windle",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "654555347-X",
+    "author": "Braybrooke",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "213403208-1",
+    "author": "Neillans",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "718110612-0",
+    "author": "Gillmor",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "867410381-2",
+    "author": "Easby",
+    "name": "Power Generation"
+  },
+  {
+    "isbn": "812698463-5",
+    "author": "Wegenen",
+    "name": "Investment Managers"
+  },
+  {
+    "isbn": "376374494-0",
+    "author": "Grayston",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "325483842-4",
+    "author": "Bickerstasse",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "197644025-4",
+    "author": "Sleeford",
+    "name": "Investment Bankers/Brokers/Service"
+  },
+  {
+    "isbn": "990916488-4",
+    "author": "Skarr",
+    "name": "n/a"
+  },
+  {
+    "isbn": "146139342-6",
+    "author": "Wisniewski",
+    "name": "Building Products"
+  },
+  {
+    "isbn": "664639006-1",
+    "author": "Petty",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "267979967-4",
+    "author": "Coonihan",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "294621735-3",
+    "author": "Kleszinski",
+    "name": "n/a"
+  },
+  {
+    "isbn": "336201923-4",
+    "author": "McElhinney",
+    "name": "Specialty Chemicals"
+  },
+  {
+    "isbn": "341032297-3",
+    "author": "Chasmoor",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "769997202-3",
+    "author": "Sickert",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "238882422-2",
+    "author": "Oakland",
+    "name": "n/a"
+  },
+  {
+    "isbn": "329509098-X",
+    "author": "Hoyt",
+    "name": "Finance/Investors Services"
+  },
+  {
+    "isbn": "298263827-4",
+    "author": "Buxey",
+    "name": "Building Products"
+  },
+  {
+    "isbn": "633461552-1",
+    "author": "Rigmand",
+    "name": "n/a"
+  },
+  {
+    "isbn": "551364085-6",
+    "author": "Gusticke",
+    "name": "n/a"
+  },
+  {
+    "isbn": "622725593-9",
+    "author": "Renac",
+    "name": "EDP Services"
+  },
+  {
+    "isbn": "217074222-0",
+    "author": "Hourihan",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "743946237-8",
+    "author": "Meak",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "626562602-7",
+    "author": "Whatman",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "436356887-9",
+    "author": "Rutgers",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "499607465-5",
+    "author": "Repper",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "771941057-2",
+    "author": "Noller",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "464274658-7",
+    "author": "Quiddington",
+    "name": "n/a"
+  },
+  {
+    "isbn": "730864135-X",
+    "author": "Hallihan",
+    "name": "Medical/Nursing Services"
+  },
+  {
+    "isbn": "352290463-X",
+    "author": "Bartels",
+    "name": "Consumer Specialties"
+  },
+  {
+    "isbn": "122259671-7",
+    "author": "Clempton",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "666613935-6",
+    "author": "Clemmens",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "249874564-5",
+    "author": "Tenbrug",
+    "name": "Auto Manufacturing"
+  },
+  {
+    "isbn": "126534129-X",
+    "author": "Aggio",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "158564452-8",
+    "author": "Galer",
+    "name": "n/a"
+  },
+  {
+    "isbn": "212147038-7",
+    "author": "Jacquet",
+    "name": "n/a"
+  },
+  {
+    "isbn": "752148061-9",
+    "author": "Murkin",
+    "name": "Computer Software: Programming, Data Processing"
+  },
+  {
+    "isbn": "995039293-4",
+    "author": "Leeburn",
+    "name": "Semiconductors"
+  },
+  {
+    "isbn": "475375019-1",
+    "author": "Chorley",
+    "name": "Publishing"
+  },
+  {
+    "isbn": "984939470-6",
+    "author": "Schoffel",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "220809260-0",
+    "author": "Frogley",
+    "name": "Water Supply"
+  },
+  {
+    "isbn": "087155666-9",
+    "author": "McNellis",
+    "name": "Life Insurance"
+  },
+  {
+    "isbn": "075766557-8",
+    "author": "Diano",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "299488311-2",
+    "author": "Freeberne",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "485738753-0",
+    "author": "Maillard",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "738772756-2",
+    "author": "Hablot",
+    "name": "Hospital/Nursing Management"
+  },
+  {
+    "isbn": "814569029-3",
+    "author": "Rogez",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "909029801-0",
+    "author": "Scritch",
+    "name": "n/a"
+  },
+  {
+    "isbn": "410058252-8",
+    "author": "Hollibone",
+    "name": "Electronic Components"
+  },
+  {
+    "isbn": "871316311-6",
+    "author": "Yurenev",
+    "name": "Multi-Sector Companies"
+  },
+  {
+    "isbn": "874767569-1",
+    "author": "Sogg",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "284527110-7",
+    "author": "Hannabuss",
+    "name": "n/a"
+  },
+  {
+    "isbn": "310297422-8",
+    "author": "Blum",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "242152852-6",
+    "author": "Pigott",
+    "name": "n/a"
+  },
+  {
+    "isbn": "678529191-7",
+    "author": "Casetta",
+    "name": "Farming/Seeds/Milling"
+  },
+  {
+    "isbn": "981451394-6",
+    "author": "Wabe",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "453172926-9",
+    "author": "Bartlomieczak",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "268317777-1",
+    "author": "Lacelett",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "876046938-2",
+    "author": "Cowlard",
+    "name": "n/a"
+  },
+  {
+    "isbn": "663972275-5",
+    "author": "Treece",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "802946140-2",
+    "author": "Duckit",
+    "name": "Beverages (Production/Distribution)"
+  },
+  {
+    "isbn": "972876013-2",
+    "author": "O'Hara",
+    "name": "n/a"
+  },
+  {
+    "isbn": "279226387-3",
+    "author": "Goldsworthy",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "417655502-5",
+    "author": "Cazalet",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "227779560-7",
+    "author": "Hrinchenko",
+    "name": "n/a"
+  },
+  {
+    "isbn": "303685387-1",
+    "author": "Ledgister",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "513405367-7",
+    "author": "Comazzo",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "346488867-3",
+    "author": "Ransbury",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "624226503-6",
+    "author": "Wherry",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "586392018-1",
+    "author": "MacPeice",
+    "name": "Radio And Television Broadcasting And Communications Equipment"
+  },
+  {
+    "isbn": "101488119-6",
+    "author": "Burgoine",
+    "name": "n/a"
+  },
+  {
+    "isbn": "971464757-6",
+    "author": "Beaten",
+    "name": "n/a"
+  },
+  {
+    "isbn": "530305190-0",
+    "author": "Bohills",
+    "name": "n/a"
+  },
+  {
+    "isbn": "761197536-6",
+    "author": "Bloodworthe",
+    "name": "n/a"
+  },
+  {
+    "isbn": "109022425-7",
+    "author": "Castlake",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "787917113-4",
+    "author": "Pickerin",
+    "name": "Industrial Machinery/Components"
+  },
+  {
+    "isbn": "936932412-7",
+    "author": "Norcross",
+    "name": "Marine Transportation"
+  },
+  {
+    "isbn": "637769296-X",
+    "author": "Gonnel",
+    "name": "Farming/Seeds/Milling"
+  },
+  {
+    "isbn": "095648958-3",
+    "author": "Corsar",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "635413614-9",
+    "author": "Adshead",
+    "name": "n/a"
+  },
+  {
+    "isbn": "297718321-3",
+    "author": "Groombridge",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "257628633-X",
+    "author": "Surridge",
+    "name": "n/a"
+  },
+  {
+    "isbn": "656863166-3",
+    "author": "Ranson",
+    "name": "n/a"
+  },
+  {
+    "isbn": "358594800-6",
+    "author": "Skipworth",
+    "name": "Metal Fabrications"
+  },
+  {
+    "isbn": "049882408-X",
+    "author": "Greenhill",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "657265560-1",
+    "author": "Mee",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "333271614-X",
+    "author": "Blair",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "851671883-2",
+    "author": "O Mullen",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "704138359-8",
+    "author": "O'Halloran",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "872717738-6",
+    "author": "Swains",
+    "name": "n/a"
+  },
+  {
+    "isbn": "270858215-1",
+    "author": "Mungan",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "723134040-7",
+    "author": "Villiers",
+    "name": "n/a"
+  },
+  {
+    "isbn": "250355959-X",
+    "author": "Matthisson",
+    "name": "Building operators"
+  },
+  {
+    "isbn": "042750196-2",
+    "author": "Trammel",
+    "name": "Steel/Iron Ore"
+  },
+  {
+    "isbn": "790478191-3",
+    "author": "Weld",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "571149318-3",
+    "author": "Westmorland",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "385388877-1",
+    "author": "Pevie",
+    "name": "Broadcasting"
+  },
+  {
+    "isbn": "490768097-X",
+    "author": "Rennison",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "402084101-2",
+    "author": "Geffcock",
+    "name": "n/a"
+  },
+  {
+    "isbn": "102940607-3",
+    "author": "Niles",
+    "name": "Computer Software: Prepackaged Software"
+  },
+  {
+    "isbn": "476129841-3",
+    "author": "Kolczynski",
+    "name": "n/a"
+  },
+  {
+    "isbn": "679465379-6",
+    "author": "Gebuhr",
+    "name": "Electric Utilities: Central"
+  },
+  {
+    "isbn": "910886415-2",
+    "author": "Adamczyk",
+    "name": "Oil & Gas Production"
+  },
+  {
+    "isbn": "220612949-3",
+    "author": "Dietz",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "973217964-3",
+    "author": "Preene",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "723724686-0",
+    "author": "Bollins",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "959051810-9",
+    "author": "Luther",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "398836513-0",
+    "author": "Zink",
+    "name": "n/a"
+  },
+  {
+    "isbn": "452103670-8",
+    "author": "Paddock",
+    "name": "Recreational Products/Toys"
+  },
+  {
+    "isbn": "614634559-8",
+    "author": "Tasker",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "980404534-6",
+    "author": "McCrainor",
+    "name": "Banks"
+  },
+  {
+    "isbn": "699431177-5",
+    "author": "Craigg",
+    "name": "Professional Services"
+  },
+  {
+    "isbn": "333976081-0",
+    "author": "de Grey",
+    "name": "Real Estate"
+  },
+  {
+    "isbn": "470101480-X",
+    "author": "Yeandel",
+    "name": "Business Services"
+  },
+  {
+    "isbn": "805402173-9",
+    "author": "Kurten",
+    "name": "Other Consumer Services"
+  },
+  {
+    "isbn": "680549015-4",
+    "author": "Strathman",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "021274647-2",
+    "author": "Roisen",
+    "name": "Newspapers/Magazines"
+  },
+  {
+    "isbn": "607516739-0",
+    "author": "Groundwater",
+    "name": "Catalog/Specialty Distribution"
+  },
+  {
+    "isbn": "679875019-2",
+    "author": "Guitt",
+    "name": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+  },
+  {
+    "isbn": "624709976-2",
+    "author": "Armsden",
+    "name": "n/a"
+  },
+  {
+    "isbn": "279667759-1",
+    "author": "Denerley",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "742858498-1",
+    "author": "Louca",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "070382947-5",
+    "author": "Petel",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "102629787-7",
+    "author": "Mogg",
+    "name": "n/a"
+  },
+  {
+    "isbn": "077718868-6",
+    "author": "Greiswood",
+    "name": "Trucking Freight/Courier Services"
+  },
+  {
+    "isbn": "954262086-1",
+    "author": "Edler",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "924889849-1",
+    "author": "Lindenboim",
+    "name": "n/a"
+  },
+  {
+    "isbn": "000759307-4",
+    "author": "Hulmes",
+    "name": "Property-Casualty Insurers"
+  },
+  {
+    "isbn": "464768386-9",
+    "author": "Livett",
+    "name": "Military/Government/Technical"
+  },
+  {
+    "isbn": "394416226-9",
+    "author": "Foddy",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "652032090-0",
+    "author": "Gartenfeld",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "653431272-7",
+    "author": "Girardot",
+    "name": "Industrial Specialties"
+  },
+  {
+    "isbn": "420055732-0",
+    "author": "Hiseman",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "559578120-3",
+    "author": "Mc Carrick",
+    "name": "n/a"
+  },
+  {
+    "isbn": "992424121-5",
+    "author": "MacCleod",
+    "name": "Electrical Products"
+  },
+  {
+    "isbn": "600207681-6",
+    "author": "Larmuth",
+    "name": "n/a"
+  },
+  {
+    "isbn": "971948741-0",
+    "author": "Tidmarsh",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "109264561-6",
+    "author": "Prydden",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "423743956-9",
+    "author": "Limbert",
+    "name": "n/a"
+  },
+  {
+    "isbn": "734288666-1",
+    "author": "Pawelczyk",
+    "name": "Restaurants"
+  },
+  {
+    "isbn": "910050106-9",
+    "author": "Dunbobin",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "697202523-0",
+    "author": "Yosevitz",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "538247269-6",
+    "author": "Yukhin",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "687883818-5",
+    "author": "Larne",
+    "name": "Telecommunications Equipment"
+  },
+  {
+    "isbn": "616676058-2",
+    "author": "Lockier",
+    "name": "Building operators"
+  },
+  {
+    "isbn": "308974633-6",
+    "author": "Wyrill",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "696788040-3",
+    "author": "Blagden",
+    "name": "n/a"
+  },
+  {
+    "isbn": "703879514-7",
+    "author": "Breem",
+    "name": "Commercial Banks"
+  },
+  {
+    "isbn": "016340721-5",
+    "author": "Britee",
+    "name": "Home Furnishings"
+  },
+  {
+    "isbn": "493863163-6",
+    "author": "Canham",
+    "name": "Precious Metals"
+  },
+  {
+    "isbn": "351909503-3",
+    "author": "Challin",
+    "name": "Natural Gas Distribution"
+  },
+  {
+    "isbn": "935680645-4",
+    "author": "Fulger",
+    "name": "Biotechnology: Commercial Physical & Biological Resarch"
+  },
+  {
+    "isbn": "537486522-6",
+    "author": "De Vaan",
+    "name": "Medical/Dental Instruments"
+  },
+  {
+    "isbn": "811597759-4",
+    "author": "Aspinell",
+    "name": "Packaged Foods"
+  },
+  {
+    "isbn": "927806062-3",
+    "author": "McQuillen",
+    "name": "Major Pharmaceuticals"
+  },
+  {
+    "isbn": "642581028-9",
+    "author": "Megarrell",
+    "name": "Biotechnology: Biological Products (No Diagnostic Substances)"
+  },
+  {
+    "isbn": "802515197-2",
+    "author": "Southwick",
+    "name": "Finance: Consumer Services"
+  },
+  {
+    "isbn": "439680865-8",
+    "author": "Poel",
+    "name": "Homebuilding"
+  },
+  {
+    "isbn": "364968021-1",
+    "author": "D'Ruel",
+    "name": "Real Estate Investment Trusts"
+  },
+  {
+    "isbn": "429687964-2",
+    "author": "Fardoe",
+    "name": "Major Chemicals"
+  },
+  {
+    "isbn": "189449254-4",
+    "author": "Kasbye",
+    "name": "Major Banks"
+  },
+  {
+    "isbn": "464174731-8",
+    "author": "Brophy",
+    "name": "n/a"
+  }
+]
